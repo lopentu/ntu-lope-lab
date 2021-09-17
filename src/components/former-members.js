@@ -41,6 +41,9 @@ const FormerMembers = () => {
                         Simon Shih｜施孟賢, <span style={{color:"gray"}}>Ph.D. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
                         Yi-Ju Lin｜林宜儒, <span style={{color:"gray"}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
                         Yolanda Chen｜陳盈瑜, <span style={{color:"gray"}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+                        Jessy Chen｜陳蓓怡, <span style={{color:"gray"}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+                        Don Hong｜洪漢唐, <span style={{color:"gray"}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+
                     </p>
                 </div>
             </div>

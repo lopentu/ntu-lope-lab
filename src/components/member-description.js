@@ -58,18 +58,12 @@ const MemberDescription = () => {
 
             <h4 style={{marginBottom:"5vh", marginTop:"5vh"}}>碩士生</h4>
             <Row lg="5" md="4" sm="3" xs="2" style={{marginBottom:"5vh"}}>
-                <Col >
-                    <MemberCard imgSrc={jessy} name="陳蓓怡｜碩四" text="計算語言學、語料庫語言學、詞彙語意學、語言習得"
-                    mail = "mailto:r06142003@ntu.edu.tw"/>
-                </Col>
+                
                 <Col>
                     <MemberCard imgSrc={ben} name="許家誠｜碩四" text="計算語言學、南島語語言學、語料庫語言學、聲韻學"
                     mail = "mailto:r07142006@ntu.edu.tw"/>
                 </Col>
-                <Col>
-                    <MemberCard imgSrc={don} name="洪漢唐｜碩四" text="計算語言學、社會語言學、歷史語言學"
-                    mail = "mailto:r07142007@ntu.edu.tw"/>
-                </Col>
+                
                 <Col>
                     <MemberCard imgSrc={debby} name="Debby Chang｜碩四" text="計算語言、詞彙語意學、符號學"
                     mail = "mailto:r07142005@ntu.edu.tw" />          

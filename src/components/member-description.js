@@ -3,7 +3,7 @@ import {Row, Col} from 'reactstrap'
 import MemberCard from "./member-card"
 import amber from "../images/members/amber.png";
 import andrea from "../images/members/andrea.png";
-import ben from "../images/members/ben.png";
+import ben from "../images/members/ben.JPG";
 import bk from "../images/members/bk.png";
 import chiyao from "../images/members/chiyao.png";
 import debby from "../images/members/debby.png";

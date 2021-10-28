@@ -38,17 +38,17 @@ function App() {
         <div class="cube"></div>
         <div className="title">
           <h1 class="animate__animated animate__fadeInDown" style={{fontSize:"50px"}}>
-            臺大語言所
+            知識本體、語言處理與人文計算實驗室
           </h1>
           <hr class="title-hr"></hr>
           <h2 class="animate__animated animate__fadeInDown" style={{fontSize:"40px"}}>
-            知識本體、語言處理與人文計算實驗室
+            @台大語言所
           </h2>
           <h1 class="animate__animated animate__fadeInDown" style={{fontSize:"21px"}}>
-            <span style={{color:'#eb596e'}}>L</span>ab of 
-            <span style={{color:'#eb596e'}}> O</span>ntologies, Language 
-            <span style={{color:'#eb596e'}}> P</span>rocessing and 
-            <span style={{color:'#eb596e'}}> E</span>-humanities
+            <span style={{color:'#69DADB'}}>L</span>ab of 
+            <span style={{color:'#69DADB'}}> O</span>ntologies, Language 
+            <span style={{color:'#69DADB'}}> P</span>rocessing and 
+            <span style={{color:'#69DADB'}}> E</span>-humanities
           </h1>
         </div>
       </div>

@@ -7,6 +7,7 @@ import {
   Nav,
   NavLink,
 } from 'reactstrap';
+import logo_lope from "../images/logo_lope.jpg";
 
 const Example = (props) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,7 +29,7 @@ const Example = (props) => {
     <div >
       <Navbar light expand="md" fixed="top" className={navbar ? "navbar active" : 'navbar' }>
             <NavbarBrand href="/" style={{color:"cornflowerblue"}}>
-              <img src="https://lope.linguistics.ntu.edu.tw/wp-content/uploads/2017/06/cropped-Globe-192x192.png" style = {{height:"35px"}} alt="lope icon"></img> </NavbarBrand>
+              <img src={logo_lope} style = {{height:"35px"}} alt="lope icon"></img> </NavbarBrand>
             <NavbarToggler onClick={toggle} />
             <Collapse isOpen={isOpen} navbar >
                 <Nav className="mr-auto">

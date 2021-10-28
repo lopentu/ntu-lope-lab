@@ -15,8 +15,8 @@ const Publications = (props) => {
 
       <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '13' })}
-            onClick={() => { toggle('13'); }}
+            className={classnames({ active: activeTab === '1' })}
+            onClick={() => { toggle('1'); }}
           >
             2020
           </NavLink>
@@ -24,8 +24,8 @@ const Publications = (props) => {
 
         <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '12' })}
-            onClick={() => { toggle('12'); }}
+            className={classnames({ active: activeTab === '2' })}
+            onClick={() => { toggle('2'); }}
           >
             2019
           </NavLink>
@@ -33,8 +33,8 @@ const Publications = (props) => {
 
         <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '11' })}
-            onClick={() => { toggle('11'); }}
+            className={classnames({ active: activeTab === '3' })}
+            onClick={() => { toggle('3'); }}
           >
             2018
           </NavLink>
@@ -42,8 +42,8 @@ const Publications = (props) => {
 
         <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '10' })}
-            onClick={() => { toggle('10'); }}
+            className={classnames({ active: activeTab === '4' })}
+            onClick={() => { toggle('4'); }}
           >
             2017
           </NavLink>
@@ -51,15 +51,15 @@ const Publications = (props) => {
 
         <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '9' })}
-            onClick={() => { toggle('9'); }}
+            className={classnames({ active: activeTab === '5' })}
+            onClick={() => { toggle('5'); }}
           >
             2016
           </NavLink>
         </NavItem><NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '8' })}
-            onClick={() => { toggle('8'); }}
+            className={classnames({ active: activeTab === '6' })}
+            onClick={() => { toggle('6'); }}
           >
             2015
           </NavLink>
@@ -72,45 +72,45 @@ const Publications = (props) => {
           </NavLink>
         </NavItem><NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '6' })}
-            onClick={() => { toggle('6'); }}
+            className={classnames({ active: activeTab === '8' })}
+            onClick={() => { toggle('8'); }}
           >
             2013
           </NavLink>
         </NavItem><NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '5' })}
-            onClick={() => { toggle('5'); }}
+            className={classnames({ active: activeTab === '9' })}
+            onClick={() => { toggle('9'); }}
           >
             2012
         </NavLink>
         </NavItem><NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '4' })}
-            onClick={() => { toggle('4'); }}
+            className={classnames({ active: activeTab === '10' })}
+            onClick={() => { toggle('10'); }}
           >
             2011
         </NavLink>
         </NavItem><NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '3' })}
-            onClick={() => { toggle('3'); }}
+            className={classnames({ active: activeTab === '11' })}
+            onClick={() => { toggle('11'); }}
           >
             2010
           </NavLink>
         </NavItem>
         <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '2' })}
-            onClick={() => { toggle('2'); }}
+            className={classnames({ active: activeTab === '12' })}
+            onClick={() => { toggle('12'); }}
           >
             2009
           </NavLink>
         </NavItem>
         <NavItem className="pub_tabs">
           <NavLink
-            className={classnames({ active: activeTab === '1' })}
-            onClick={() => { toggle('1'); }}
+            className={classnames({ active: activeTab === '13' })}
+            onClick={() => { toggle('13'); }}
           >
             2008
           </NavLink>
@@ -121,7 +121,7 @@ const Publications = (props) => {
 
       <TabContent activeTab={activeTab}>
 
-      <TabPane tabId="13">
+      <TabPane tabId='1'>
           <div class="content" style={{display: "block"}}> 
             <ul class="icon-list">  
               <li class="publi">
@@ -131,7 +131,7 @@ const Publications = (props) => {
           </div>
         </TabPane>
 
-        <TabPane tabId="12">
+        <TabPane tabId="2">
           <div class="content" style={{display: "block"}}> 
             <ul class="icon-list">  
               <li class="publi">
@@ -159,7 +159,7 @@ const Publications = (props) => {
             </ul> 
           </div>
         </TabPane>
-        <TabPane tabId="11">
+        <TabPane tabId="3">
           <div class="content" style={{display: "block"}}>
             <ul class="icon-list">
                 <li class="publi">
@@ -183,7 +183,7 @@ const Publications = (props) => {
             </ul>
           </div>
         </TabPane>
-        <TabPane tabId="10">
+        <TabPane tabId="4">
           <div class="content" style={{display:"block"}}>
             <ul class="icon-list">
                 <li class="publi">
@@ -222,7 +222,7 @@ const Publications = (props) => {
             </ul>
           </div>
         </TabPane>
-        <TabPane tabId="9">
+        <TabPane tabId="5">
           <div class="content" style={{display: "block"}}>
             <ul class="icon-list">
               <li class="publi">
@@ -253,7 +253,7 @@ const Publications = (props) => {
             </ul>
           </div>
         </TabPane>
-        <TabPane tabId="8">
+        <TabPane tabId="6">
           <div class="content" style={{display: "block"}}>
                 <ul class="icon-list">
                     <li class="publi">
@@ -296,7 +296,7 @@ const Publications = (props) => {
           </div>
         </TabPane>
 
-        <TabPane tabId="6">
+        <TabPane tabId="8">
           <div class="content" style={{display: "block"}}>
             <ul class="icon-list">
               <li class="publi"><strong>Pei-Yu Lu</strong>, <strong>Yu-Yun Chang</strong>, <strong>Shu-Kai Hsieh</strong>. Causing Emotion in Collocation: An Exploratory Data Analysis. The 25th Conference on Computational Linguistics and Speech Processing. National Sun Yat-sen University, Kaohsiung, Taiwan.</li>
@@ -319,7 +319,7 @@ const Publications = (props) => {
           </div>
         </TabPane>
 
-        <TabPane tabId="5">
+        <TabPane tabId="9">
         <div class="content" style={{display: "block"}}>
                 <ul class="icon-list">
                     &nbsp;
@@ -337,7 +337,7 @@ const Publications = (props) => {
         
 
         
-        <TabPane tabId="4">
+        <TabPane tabId="10">
         <div class="content" style={{display: "block"}}>
                 <ul class="icon-list">
                     &nbsp;
@@ -354,7 +354,7 @@ const Publications = (props) => {
 
           
         </TabPane>
-        <TabPane tabId="3">
+        <TabPane tabId="11">
         <div class="content" style={{display: "block"}}>
                 <ul class="icon-list">
                     &nbsp;
@@ -385,7 +385,7 @@ const Publications = (props) => {
           
         </TabPane>
 
-        <TabPane tabId="2">
+        <TabPane tabId="12">
           <div class="content" style={{display: "block"}}>
                 <ul class="icon-list">
                     &nbsp;
@@ -405,7 +405,7 @@ const Publications = (props) => {
           </div>
         </TabPane>
 
-        <TabPane tabId = "1">
+        <TabPane tabId = "13">
           <div class="content" style={{display: "block"}}>
             <ul class="icon-list">
               <li class="publi"><strong>Shu-Yen Lin</strong>, Cheng-Chao Su, Yu-Da Lai, Li-Chin Yang, and <strong>Shu-Kai Hsieh</strong>. <span class="style30">Measuring Text Readability by Lexical Relations Retrieved from WordNet. <em>The 20th Conference on Computational Linguistics and Speech Processing</em>. Taipei. </span><a href="https://lope.linguistics.ntu.edu.tw/att/MeasuringTextReadabilitybyLexicalRel.pdf"><img src="Publications%20|%20LOPE_files/pdf.gif" alt="pdf"/></a></li>

@@ -8,7 +8,7 @@ const newsInfo = [
     {
         "date":"2021.01.21 | 活動",
         "title":"曾昱翔博士受邀演講:「深度學習的超級分類器：Bert實作工作坊」",
-        "content" :"2020.11.21於台大國發所302室舉辦",
+        "content" :"2021.01.21於台大國發所302室舉辦",
         "link":"https://docs.google.com/presentation/d/1aGdG7OcAc-kIGxYqgBOtGeT83avWOA7pAqord7wrlhA/edit#slide=id.p",
         "linkName":"Hello Bert!"
     },

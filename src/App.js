@@ -45,10 +45,10 @@ function App() {
             @台大語言所
           </h2>
           <h1 class="animate__animated animate__fadeInDown" style={{fontSize:"21px"}}>
-            <span style={{color:'#69DADB'}}>L</span>ab of 
-            <span style={{color:'#69DADB'}}> O</span>ntologies, Language 
-            <span style={{color:'#69DADB'}}> P</span>rocessing and 
-            <span style={{color:'#69DADB'}}> E</span>-humanities
+            <span style={{color:'coral', fontSize:"30px"}}>L</span>ab of 
+            <span style={{color:'coral',fontSize:"30px"}}> O</span>ntologies, Language 
+            <span style={{color:'coral',fontSize:"30px"}}> P</span>rocessing and 
+            <span style={{color:'coral',fontSize:"30px"}}> E</span>-humanities
           </h1>
         </div>
       </div>

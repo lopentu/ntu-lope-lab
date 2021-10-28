@@ -125,7 +125,7 @@ const Publications = (props) => {
           <div class="content" style={{display: "block"}}> 
             <ul class="icon-list">  
               <li class="publi">
-                <strong>Shih, Cing-Fang, Mao-Chang Ku, and Shu-Kai Hsieh</strong> Lectal Variation of the Two Chinese Causative Auxiliaries. The 32th Annual Conference of Computational Linguistics and Speech Processing. Taiwan.        
+                <strong>Shih, Cing-Fang, Mao-Chang Ku, and Shu-Kai Hsieh</strong> Lectal Variation of the Two Chinese Causative Auxiliaries. The 32nd Annual Conference of Computational Linguistics and Speech Processing. Taiwan.        
               </li>
             </ul> 
           </div>
@@ -145,10 +145,10 @@ const Publications = (props) => {
                 <strong>Tseng, Yu-Hiang</strong> and <strong>Shu-Kai Hsieh</strong>. Eigencharacter: An Embedding of Chinese Character Orthography. The First Workshop Beyond Vision and Language: Integrating Real-world Knowledge. EMNLP-IJCNLP workshop. Hong Kong.     
               </li>
               <li class="publi">
-                <strong>Chen, Ying-Yu</strong> and <strong>Shu-Kai Hsieh</strong>. Extracting Semantic Representation of Sexual Biases from Word Vectors. The 31th Annual Conference of Computational Linguistics and Speech Processing in Taiwan (best poster award).
+                <strong>Chen, Ying-Yu</strong> and <strong>Shu-Kai Hsieh</strong>. Extracting Semantic Representation of Sexual Biases from Word Vectors. The 31st Annual Conference of Computational Linguistics and Speech Processing in Taiwan (best poster award).
               </li>
               <li class="publi">
-                <strong>Hsieh, Shu-Kai</strong>, <strong>Yu-Hsiang Tseng</strong>, and <strong>Chiung-Yu Chiang</strong>. Modeling the Idiomaticity of Chinese Quadra-syllabic Idiomatic Expressions. The 33th Pacific Asia Conference on Language, Information and Computation. Japan.
+                <strong>Hsieh, Shu-Kai</strong>, <strong>Yu-Hsiang Tseng</strong>, and <strong>Chiung-Yu Chiang</strong>. Modeling the Idiomaticity of Chinese Quadra-syllabic Idiomatic Expressions. The 33rd Pacific Asia Conference on Language, Information and Computation. Japan.
               </li>
               <li class="publi">
                 <strong>Yu-Hsiang Tseng</strong> and <strong>Shu-Kai Hsieh</strong>. Augmenting Chinese Wordnet Semantic Relations with Contextualized Embeddings. The 10th Global WordNet Conference. Poland.

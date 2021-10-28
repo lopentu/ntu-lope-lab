@@ -33,7 +33,7 @@ const ResourceCard = (props) => {
                 }} 
                 className="resource-btn"
                 >
-                  <a href={props.href} style={{textDecoration:"none",color:"white",}}>前往</a>
+                <a href={props.href} style={{textDecoration:"none",color:"white",}}  target="_blank" rel="noreferrer">前往</a>
                 
               </Button>
             </div>

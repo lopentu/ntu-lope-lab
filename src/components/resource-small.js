@@ -12,7 +12,7 @@ const ResourceCardsm = (props) => {
           <CardTitle tag="h5">{props.title}</CardTitle>
           <CardText>{props.text}</CardText>
           <Button className="button">
-            <a href={props.href} style={{textDecoration:"none", color:"white"}}>
+            <a href={props.href} style={{textDecoration:"none", color:"white"}}  target="_blank" rel="noreferrer">
               查看更多
             </a>
           </Button>

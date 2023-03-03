@@ -72,23 +72,23 @@ const MemberDescription = () => {
                     mail = "mailto:r10142008@ntu.edu.tw"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="陳品而｜碩一" text="計算語意學、認知語意學"
+                    <MemberCard imgSrc={pin_er} name="joanne｜碩一" text="計算語意學、認知語意學"
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="陳品而｜碩一" text="計算語意學、認知語意學"
+                    <MemberCard imgSrc={pin_er} name="mia｜碩一" text="計算語意學、認知語意學"
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="陳品而｜碩一" text="計算語意學、認知語意學"
+                    <MemberCard imgSrc={pin_er} name="巧函｜碩一" text="計算語意學、認知語意學"
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="陳品而｜碩一" text="計算語意學、認知語意學"
+                    <MemberCard imgSrc={pin_er} name="micah｜碩一" text="計算語意學、認知語意學"
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="陳品而｜碩一" text="計算語意學、認知語意學"
+                    <MemberCard imgSrc={pin_er} name="Deborah｜碩一" text="計算語意學、認知語意學"
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
             </Row>

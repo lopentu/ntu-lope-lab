@@ -44,6 +44,10 @@ const FormerMembers = () => {
                         Yolanda Chen｜陳盈瑜, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
                         Jessy Chen｜陳蓓怡, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
                         Don Hong｜洪漢唐, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+                        Fei-Yang Chang｜張飛揚, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+                        Yong-Fu Liao｜廖永賦, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+                        Andrea Shih｜石晴方, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
+                        Derek Liao｜廖聿鋆, <span style={{color:color}}>M.A. in Linguistics, National Taiwan University, Taiwan</span>{"\n"}
 
                     </p>
                 </div>
@@ -59,6 +63,7 @@ const FormerMembers = () => {
                         Ding-Shiang Lin | 林鼎翔, <span style={{color:color}}>M.S. in Computer Science and Engineering, National Taiwan Ocean University, Taiwan</span>{"\n"}
                         Mark Chang | 張富傑, <span style={{color:color}}>M.A. in Electronic Engineering, National Taiwan University, Taiwan</span>{"\n"}
                         Rui-Qian Qin｜秦睿謙, <span style={{color:color}}>B.A. in Computer Science and Information Engineering, National Taiwan University, Taiwan</span>{"\n"}
+                        Nana Yang｜楊晴雯, <span style={{color:color}}>M.A. in Computer Science and Information Engineering, National Cheng Kung University, Taiwan</span>{"\n"}
                     </p>
                 </div>
                 <div>

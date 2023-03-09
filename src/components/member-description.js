@@ -12,6 +12,8 @@ import pin_er from "../images/members/pin-er.jpg";
 import yu_shiang from "../images/members/yu-shiang.png";
 import yulin from "../images/members/yulin.png";
 import mia from "../images/members/mia.jpg";
+import deborah from "../images/members/deborah.jpg"
+
 
 const MemberDescription = () => {
     return (
@@ -89,8 +91,8 @@ const MemberDescription = () => {
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="Deborah｜碩一" text="計算語意學、認知語意學"
-                    mail = "mailto:cckk2913@gmail.com"/>
+                    <MemberCard imgSrc={deborah} name="Deborah Denise Watty｜碩一" text="計算語言學"
+                    mail = "Deborah.watty@gmail.com"/>
                 </Col>
             </Row>
 

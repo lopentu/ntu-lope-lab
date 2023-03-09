@@ -11,6 +11,7 @@ import nana from "../images/members/nana.png";
 import pin_er from "../images/members/pin-er.jpg";
 import yu_shiang from "../images/members/yu-shiang.png";
 import yulin from "../images/members/yulin.png";
+import irene from "../images/members/Irene.jpg";
 
 const MemberDescription = () => {
     return (
@@ -80,8 +81,8 @@ const MemberDescription = () => {
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={pin_er} name="巧函｜碩一" text="計算語意學、認知語意學"
-                    mail = "mailto:cckk2913@gmail.com"/>
+                    <MemberCard imgSrc={irene} name="顏巧函｜碩一" text="計算語意學、認知語意學、社會語言學、隱喻"
+                    mail = "mailto:r11142008@ntu.edu.tw"/>
                 </Col>
                 <Col>
                     <MemberCard imgSrc={pin_er} name="micah｜碩一" text="計算語意學、認知語意學"

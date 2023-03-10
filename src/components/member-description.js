@@ -91,7 +91,7 @@ const MemberDescription = () => {
                     mail = "mailto:cckk2913@gmail.com"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc={deborah} name="Deborah Denise Watty｜碩一" text="計算語言學"
+                    <MemberCard imgSrc={deborah} name="Deborah Watty｜碩一" text="計算語言學"
                     mail = "Deborah.watty@gmail.com"/>
                 </Col>
             </Row>

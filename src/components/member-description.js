@@ -7,7 +7,6 @@ import bk from "../images/members/bk.png";
 import debby from "../images/members/debby.png";
 import amy from "../images/members/amy.jpeg";
 import joy from "../images/members/joy.png";
-import nana from "../images/members/nana.png";
 import pin_er from "../images/members/pin-er.jpg";
 import yu_shiang from "../images/members/yu-shiang.png";
 import yulin from "../images/members/yulin.png";
@@ -16,6 +15,7 @@ import deborah from "../images/members/deborah.jpg"
 import irene from "../images/members/Irene.jpg";
 import joanne from "../images/members/joanne.png";
 import micah from "../images/members/micah.png";
+import linda from "../images/members/linda2.jpg";
 
 const MemberDescription = () => {
   return (
@@ -63,9 +63,9 @@ const MemberDescription = () => {
         </Col>
         <Col>
           <MemberCard
-            imgSrc={bk}
-            name="陳韋伶｜博一"
-            text=""
+            imgSrc={linda}
+            name="陳韋伶｜博二"
+            text="計算語言學、語意學、語言習得、遛狗"
             mail="mailto:d10142007@ntu.edu.tw"
           />
         </Col>
@@ -158,12 +158,6 @@ const MemberDescription = () => {
       <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>研究助理</h4>
       <Row lg="5" md="4" sm="3" xs="2" style={{ marginBottom: "5vh" }}>
         <Col>
-          <MemberCard
-            imgSrc={nana}
-            name="Nana"
-            text="計算語言學、語料庫語言學、資料探勘"
-            mail="mailto:b06102020@ntu.edu.tw"
-          />
         </Col>
       </Row>
     </div>

@@ -11,7 +11,9 @@ const News = props => {
             </div>
             <div class="card-body" style={{height:"22vh"}}>
               <h5 class="card-title">{props.title}</h5>
-              <p class="card-text">{props.content}
+              <p class="card-text">{props.time}
+              <br></br>
+              {props.content}
                 <br></br>
                 <a href = {props.link}>{props.linkName}</a>
               </p>

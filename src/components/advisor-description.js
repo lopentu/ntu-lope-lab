@@ -62,7 +62,7 @@ const AdvisorDescription = (props) => {
               marginLeft: "30px",
             }}
           >
-            <a href="https://iakuhs.netlify.app/">
+            <a href="https://ntu-lope-lab.netlify.app/#members">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"

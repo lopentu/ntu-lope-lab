@@ -149,14 +149,79 @@ const Publications = (props) => {
 
       <TabContent activeTab={activeTab}>
 
+      <TabPane tabId='2'>
+          <div class="content" style={{display: "block"}}> 
+            <ul class="icon-list">
+              <li class="publi">
+                <strong>Hsieh, Shu-Kai.</strong> (2022). DeepLEX. In: Huang, Hsich and Jin (eds). Chinese Language Resources: Data Collection, Linguistic Analysis, Annotation and Data Processing. Springer Nature (in production).
+              </li>
+              <li class="publi">
+                <strong>Hsieh, Shu-Kai</strong> et al. The Extreme Poverty of Affixation in Chinese: rarelyderivational and hardly affixational. In: C-R Huang et al (eds).
+              </li>
+              <li class="publi">
+                Tseng, Yu-Hsiang, Cing-Fang Shih, Pin-Er Chen, Hsin-Yu Chou, Mao-Chang Ku, <strong>Shu-Kai Hsieh.</strong> CxLM: A Construction and Context-aware Language Model. In: Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022).
+              </li>
+              <li class="publi">
+                Tseng, Yu-Hsiang and <strong>Shu-Kai Hsieh.</strong> Character Jacobian: modeling Chinese character meanings with deep learning model. In: The 29th International Conference on Computational Linguistics (COLING). South Korea.
+              </li>
+            </ul>
+          </div>
+      </TabPane>
+
+      <TabPane tabId='3'>
+          <div class="content" style={{display: "block"}}> 
+            <ul class="icon-list">
+              <li class="publi">
+                謝舒凱語料庫與語言研究的實證方法。In:黃宣範主編:語言學:結構、認 知與文化的探索。台大出版中心
+              </li>
+              <li class="publi">
+                Cing-Fang Shih, Yu-Hsiang Tseng, Ching-Wen Yang, Pin-Er Chen, Hsin-Yu Chou, Lian-Hui Tan, Tzu-Ju Lin, Chun-Wei Wang and <strong>Shu-Kai Hsieh</strong>. What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion. ROCLING.
+              </li>
+              <li class="publi">
+                <strong>Hsieh, Shu-Kai</strong> and Yu-Hsiang Tseng. Exploring sentiment constructions: connecting deep learning models with linguistic construction. PACLIC35.
+              </li>
+              <li class="publi">
+                Lai, C-H, <strong>Shu-Kai Hsieh</strong>, et al. (2021). Neuro-Cognitive Differences in Semantic Processing Between Native Speakers and Proficient Learners of Mandarin Chinese. Frontiers in Psychology 18. (Language Sciences).
+              </li>
+              <li class="publi">
+                Yu-Lin Chang, Yongfu Liao, Po-Ya Angela Wang, Mao-Chang Ku and <strong>Shu-Kai Hsieh</strong>. Keyword-centered Collocating Topic Analysis. ROCLING.
+              </li>
+            </ul> 
+          </div>
+      </TabPane>
+
       <TabPane tabId='4'>
           <div class="content" style={{display: "block"}}> 
             <ul class="icon-list">  
               <li class="publi">
-                <strong>Shih, Cing-Fang, Mao-Chang Ku, and Shu-Kai Hsieh</strong> Lectal Variation of the Two Chinese Causative Auxiliaries. The 32nd Annual Conference of Computational Linguistics and Speech Processing. Taiwan.        
+                Chang Y-Yon and <strong>Shu-Kai Hsieh</strong>. Do You Believe It Happened?Assessing Chinese Readers' Veridicality Judgments 13th edition of the Language Resources and Evaluation Conference (LRBC), online (France).
               </li>
               <li class="publi">
-                <strong>Hsieh, Shu-Kai, Yu-Hsiang Tseng, Chiung-Yu Chiang, Richard Lian, Yong-fu Liao, Mao-Chang Ku, Ching-Fang Shih</strong> From Sense to Action: A Word-Action Disambiguation Task in NLP. The 34th Pacific Asia Conferenceon Language, Information and Computation(PACLIC34). online. (Vietnam).        
+                Chen, Ying-Yu, <strong>Shu-Kai Hsieh</strong>. An Analysis of Multimodal Document Intent in Instagram Posts. The 32nd annual Conference on Computational Linguistics and Speck Processing in Taiwan (ROCLING) Taipei.
+              </li>
+              <li class="publi">
+                Han-Tang Hung <strong>Shu-Kai Hsieh</strong>. Exploring Discourse of Same-sex Marriage in Taiwan: A Case Study of Near-Synonym of HOMOSEXUAL in Opposing Stances. The 34th Pacific Asia Conference on Language Information and Computation (PACLIC 34) online (Team).
+              </li>
+              <li class="publi">
+                <strong>Hsieh, Shu-Kai</strong>, Yu-Hsiang Tseng, Chiung-Yu Chiang, Richard Lian, Yong-fu Liao, Mao-Chang Ku, Ching-Fang Shih. From Sense to Action: A Word- Action Disambiguation Task in NLP. The 34th Pacific Asia Conference on Language, Information and Computation (PACLIC 34). online. (Vietnam).      
+              </li>
+              <li class="publi">
+                Liao, Yong-Fu, <strong>Shu-Kai Hsieh</strong>. Mitigating Impacts of Word Segmentation Errors on Collocation Extraction in Chinese. The 32nd annual Conference on Computational Linguistics and Speech Processing in Taiwan (ROCLING) Taipei.
+              </li>
+              <li class="publi">
+                Sandararajan, Louise, Singkiat Ting, Seong-Hyeong Kim and <strong>Shu-Kai Hsieh</strong>. Religion, Cognition, and Emotion: What can automated text analysis tell us about Culture. The Humanistic Psychologist (APA Division 32 (Society for Humanistic Psychology)). (to be published).
+              </li>
+              <li class="publi">
+                Shih, Ching-Fang, Mao-Chang Ku, and <strong>Shu-Kai Hsieh</strong>. Lectal Variation of the Two Chinese Causative Auxiliaries. The 32nd Annual Conference of Computational Linguistics and Speech Processing. Taiwan.        
+              </li>
+              <li class="publi">
+                Tseng, Yu-Hsiang. <strong>Shu-Kai Hsieh</strong>, Pei-Yi Cheng, Sara Court. Computational Modeling of Affixosd Behavior in Chinese Morphology. The 28 rmational Conference on Computational Linguistics (COLING) online (Spain)
+              </li>
+              <li class="publi">
+                Tseng, Yu-Hiang and <strong>Shu-Kai Hsieh</strong>. Computational Representation of Chinese Characters: Comparison Between Singular Value Decomposition and Variational Autoencoder. Journal of Cognitive Science (21:1)
+              </li>
+              <li class="publi">
+                Tseng. Yu-Hsiang, <strong>Shu-Kai Hsieh</strong>, Richard Lian, Ching-Yu Chiang, Yu- Ling Chang, Li-Ping Chang, and J-Lung Hsieh. MatDCA Multi-nun Multi- domain noued Task-oriented Dialogue Dataset in Chinese. The International Conference on Technologies and Applications of Artificial Intelligence (TAAI).
               </li>
             </ul> 
           </div>

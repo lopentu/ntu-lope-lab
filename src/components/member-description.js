@@ -124,7 +124,7 @@ const MemberDescription = () => {
           <MemberCard
             imgSrc={mia}
             name="葉凱晴｜碩一"
-            text="計算語意學、句法學"
+            text="計算語言學、句法學"
             mail="mailto:ykcmia@gmail.com"
           />
         </Col>

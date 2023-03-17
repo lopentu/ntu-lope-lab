@@ -19,7 +19,7 @@ import gears from "./images/gears.png";
 import lopotator from "./images/lopotator.png";
 import nlp from "./images/nlp.png";
 import ptt_corp from "./images/ptt_corp.png";
-import ptt_corp2 from "./images/ptt_corp2.png";
+import ptt_corp3 from "./images/ptt_corp3.png";
 import text_analytics from "./images/text_analytics.png";
 
 function App() {
@@ -222,7 +222,7 @@ function App() {
             <Col>
               <ResourceCard
                 title="Taiwan Social Media Corpus"
-                imgSrc={ptt_corp}
+                imgSrc={ptt_corp3}
                 href="http://140.112.147.132/"
                 text="作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
               />
@@ -259,7 +259,7 @@ function App() {
                 title="MultiMoco NTU"
                 imgSrc={moco}
                 href="https://multimoco.linguistics.ntu.edu.tw/index.html#content-stat "
-                text="錄製數位電視公共頻道、擷取臺灣立法院議事轉播，收錄數種臺灣國家語言， 在跨文化交流的模態分析中，更廣泛且深入地探究各種語言構式。"
+                text="錄製數位電視公共頻道、擷取臺灣立法院議事轉播，收錄數種臺灣國家語言， 透過跨文化交流的模態分析，更廣泛且深入地探究各種語言構式。"
               />
             </Col>
           </Row>
@@ -269,8 +269,17 @@ function App() {
           <h3>學習共筆與開放課程、工作坊</h3>
         </div>
 
-        <div style={{ width: "65vw" }}>
-          <Row md="2" xs="1" style={{ marginBottom: "5vh" }}>
+        {/* <div
+          style={{
+            width: "85vw",
+            minHeight: "70vh",
+            padding: "10px",
+            borderRadius: "10px",
+          }}
+        ></div> */}
+
+        <div style={{ width: "85vw" }}>
+          <Row md="3" xs="1" style={{ marginBottom: "5vh" }}>
             <Col>
               <ResourceCardsm
                 title="協作閣"
@@ -283,6 +292,29 @@ function App() {
                 title="LOPE Github"
                 href="https://github.com/lopentu"
                 text="LOPE Github包含LOPE所開設過之開放課程、語料庫工作坊、電子書等資源"
+              />
+            </Col>
+            <Col>
+              <ResourceCardsm
+                title="課程網"
+                href="https://lopentu.github.io/"
+                text="此網站記錄近年謝舒凱老師開設的課程。這些課程的教材皆為開源開放，歡迎自行研讀與使用。"
+              />
+            </Col>
+          </Row>
+          <Row md="3" xs="1">
+            <Col>
+              <ResourceCardsm
+                title="產學合作"
+                // href=""
+                text="與中華電信產學合作。"
+              />
+            </Col>
+            <Col>
+              <ResourceCardsm
+                title="國際合作"
+                // href=""
+                text="德國杜賓根大學量化語言學實驗室、巴黎Pierre Zweigenbaum 教授"
               />
             </Col>
           </Row>

@@ -18,7 +18,7 @@ import moco from "./images/moco.png";
 import gears from "./images/gears.png";
 import lopotator from "./images/lopotator.png";
 import nlp from "./images/nlp.png";
-import ptt_corp from "./images/ptt_corp.png";
+// import ptt_corp from "./images/ptt_corp.png";
 import ptt_corp3 from "./images/ptt_corp3.png";
 import text_analytics from "./images/text_analytics.png";
 

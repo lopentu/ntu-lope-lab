@@ -14,10 +14,12 @@ import brain from "./images/brain.png";
 import chi_var from "./images/chi-var.png";
 import cwm from "./images/cwm.png";
 import cwn from "./images/cwn.png";
+import moco from "./images/moco.png";
 import gears from "./images/gears.png";
 import lopotator from "./images/lopotator.png";
 import nlp from "./images/nlp.png";
 import ptt_corp from "./images/ptt_corp.png";
+import ptt_corp2 from "./images/ptt_corp2.png";
 import text_analytics from "./images/text_analytics.png";
 
 function App() {
@@ -219,9 +221,9 @@ function App() {
             </Col>
             <Col>
               <ResourceCard
-                title="PTT 語料庫"
+                title="Taiwan Social Media Corpus"
                 imgSrc={ptt_corp}
-                href="http://140.112.147.132:9898/"
+                href="http://140.112.147.132/"
                 text="作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
               />
             </Col>
@@ -250,6 +252,14 @@ function App() {
                 imgSrc={cwm}
                 href="http://lope.linguistics.ntu.edu.tw/cwm/"
                 text="中文詞彙地圖是一個以華語文教學爲目的的詞彙知識素描混搭系統。"
+              />
+            </Col>
+            <Col>
+              <ResourceCard
+                title="MultiMoco NTU"
+                imgSrc={moco}
+                href="https://multimoco.linguistics.ntu.edu.tw/index.html#content-stat "
+                text="錄製數位電視公共頻道、擷取臺灣立法院議事轉播，收錄數種臺灣國家語言， 在跨文化交流的模態分析中，更廣泛且深入地探究各種語言構式。"
               />
             </Col>
           </Row>

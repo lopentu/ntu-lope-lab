@@ -88,7 +88,9 @@ function App() {
               <News
                 date={newsInfo[0]["date"]}
                 title={newsInfo[0]["title"]}
+                time={newsInfo[0]["time"]}
                 content={newsInfo[0]["content"]}
+
               />
             </Col>
             <Col>
@@ -124,6 +126,13 @@ function App() {
                 date={newsInfo[4]["date"]}
                 title={newsInfo[4]["title"]}
                 content={newsInfo[4]["content"]}
+              />
+            </Col>
+            <Col>
+              <News
+                date={newsInfo[5]["date"]}
+                title={newsInfo[5]["title"]}
+                content={newsInfo[5]["content"]}
               />
             </Col>
           </Row>

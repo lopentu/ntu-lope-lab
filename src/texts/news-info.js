@@ -1,5 +1,12 @@
 const newsInfo = [
   {
+    date: "2023.04.07 | 活動",
+    title: "本實驗室邀請 Pierre Zweigenbaum 教授 (法國巴黎 Saclay 大學) 蒞臨演講",
+    time: "將於當日下午舉辦",
+    content:"講題: 「Knowledge-Based Information Extraction: Applications to the Biomedical Domain」"
+  },
+
+  {
     date: "2022.11.12-14 | 活動",
     title: "本實驗室舉辦 2022 台大多模態語料分析工作坊",
     content: "https://multimoco.linguistics.ntu.edu.tw/#workshop",

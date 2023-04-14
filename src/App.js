@@ -244,6 +244,8 @@ function App() {
                 text="SOME為收錄了PTT和Dcard兩大論壇的語料庫。作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
               />
             </Col>
+          </Row>
+          <Row md="3" xs="1">
             <Col>
               <ResourceCard
                 title="Chinese variation"
@@ -252,9 +254,6 @@ function App() {
                 text="台灣國語和大陸國語的平行語料庫。"
               />
             </Col>
-          </Row>
-
-          <Row md="3" xs="1">
             <Col>
               <ResourceCard
                 title="Lopatator"

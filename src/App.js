@@ -230,10 +230,18 @@ function App() {
             </Col>
             <Col>
               <ResourceCard
+                title="MultiMoco NTU"
+                imgSrc={moco}
+                href="https://multimoco.linguistics.ntu.edu.tw/index.html#content-stat "
+                text="錄製數位電視公共頻道、擷取臺灣立法院議事轉播，收錄數種臺灣國家語言， 透過跨文化交流的模態分析，更廣泛且深入地探究各種語言構式。"
+              />
+            </Col>
+            <Col>
+              <ResourceCard
                 title="Taiwan Social Media Corpus"
                 imgSrc={ptt_corp3}
                 href="http://140.112.147.132/"
-                text="作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
+                text="SOME為收錄了PTT和Dcard兩大論壇的語料庫。作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
               />
             </Col>
             <Col>
@@ -261,14 +269,6 @@ function App() {
                 imgSrc={cwm}
                 href="http://lope.linguistics.ntu.edu.tw/cwm/"
                 text="中文詞彙地圖是一個以華語文教學爲目的的詞彙知識素描混搭系統。"
-              />
-            </Col>
-            <Col>
-              <ResourceCard
-                title="MultiMoco NTU"
-                imgSrc={moco}
-                href="https://multimoco.linguistics.ntu.edu.tw/index.html#content-stat "
-                text="錄製數位電視公共頻道、擷取臺灣立法院議事轉播，收錄數種臺灣國家語言， 透過跨文化交流的模態分析，更廣泛且深入地探究各種語言構式。"
               />
             </Col>
           </Row>
@@ -316,7 +316,7 @@ function App() {
               <ResourceCardsm
                 title="產學合作"
                 // href=""
-                text="與中華電信產學合作。"
+                text="台大語言所與中華電信產學合作案：深度知識學習之指向性情緒分析系統。建立電信業務知識圖並應用於留言評價分析。"
               />
             </Col>
             <Col>

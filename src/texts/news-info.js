@@ -2,7 +2,7 @@ const newsInfo = [
   {
     date: "2023.10.06 | 活動",
     title: "本實驗室邀請 Laurent Prévot 教授蒞臨演講",
-    time: "講著 : Prof. Laurent Prévot, CNRS, CEFC, Taipei.",
+    time: "講者 : Prof. Laurent Prévot, CNRS, CEFC, Taipei.",
     content:
       "講題 : Comparing Fine-Tuning and Data Programming Approaches for Linguistic Segmentation Tasks. 摘要 : In this talk, I will extend a recent study on French discourse segmentation comparing fine-tuning LLMs in a supervised way vs. crafting labelling rules to develop a weakly supervised segmenter. The results show that both approaches yield similar performance in terms of f-score while weak supervision requires less manual annotation work. I will also show how to combine a state-of-the-art data curation platform (argilla), a weak supervision environment (e.g snorkel, skweak) and a standard NLP pipeline (spacy) to implement efficiently data programming approach for linguistic segmentation tasks such as chunking and discourse segmentat.",
   },
@@ -12,8 +12,11 @@ const newsInfo = [
     title:
       "本實驗室謝舒凱教授與連大成同學穫法律法遵黑客松競賽銀牌獎與AIGC特別獎！",
     content:
-      "本實驗室謝舒凱教授與連大成同學得到了2023法律法遵黑客松競賽(https://hackathon.lawsnote.com/)銀牌獎與AIGC特別獎(比賽團隊成員：臺大語言所謝舒凱教授 and 連大成; 臺大新聞所謝吉隆老師，以及成功大學敏求智慧運算學院李韶曼老師)， 總決賽線上直播： https://www.youtube.com/watch?v=pLWOkad6AJQ",
+      "本實驗室謝舒凱教授與連大成同學得到了2023法律法遵黑客松競賽(https://hackathon.lawsnote.com/)銀牌獎與AIGC特別獎(比賽團隊成員：臺大語言所謝舒凱教授 and 連大成; 臺大新聞所謝吉隆老師，以及成功大學敏求智慧運算學院李韶曼老師)。",
+    link: "https://www.youtube.com/watch?v=pLWOkad6AJQ",
+    linkName: "總決賽線上直播",
   },
+
   {
     date: "2023.04.07 | 活動",
     title:

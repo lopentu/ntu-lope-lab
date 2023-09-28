@@ -184,32 +184,13 @@ const Publications = (props) => {
 
       <TabContent activeTab={activeTab}>
         <TabPane tabId="1">
+          {" "}
           <div class="content" style={{ display: "block" }}>
             <ul class="icon-list">
               <li class="publi">
-                Yu-Hsiang Tseng, Mao-Chang Ku, Wei-Ling Chen, Yu-Lin Chang,{" "}
-                <strong>Hsieh, Shu-Kai.</strong> (2023). Vec2Gloss: definition
-                modeling leveraging contextualized vectors with Wordnet gloss.
-                PACLIC37.
-              </li>
-              <li class="publi">
-                Pin-Er Chen, Hsin-Yu Chou, Po-Ya Angela Wang, Yu-Hsiang Tseng,{" "}
-                <strong>Hsieh, Shu-Kai.</strong> (2023). Exploring affordance
-                and situated meaning in image captions: a multimodal
-                analysis.PACLIC37.
-              </li>
-              <li class="publi">
-                Zheng-Lin Lin, Chiao-Han Yen, Jia-Cheng Xu, Deborah Watty and{" "}
-                <strong>Shu-Kai Hsieh.</strong> (2023). Solving Linguistic
-                Olympiad Problems with Tree-of-Thought Prompting. The 35th
-                annual Conference on Computational Linguistics and Speech
-                Processing (ROCLING).
-              </li>
-              <li class="publi">
-                Kai-Ching Yeh, Jou-An Chi and Da-Chen Lian,{" "}
-                <strong>Shu-Kai Hsieh.</strong> (2023). Evaluating Interfaced
-                LLM's Bias. The 35th annual Conference on Computational
-                Linguistics and Speech Processing (ROCLING).
+                Po-Ya Angela Wang and <strong>Shu-Kai Hsieh</strong>. (2023).
+                Incorporating structural topic modeling into short text
+                analysis. Concentric, 49(1), 96-138.
               </li>
             </ul>
           </div>

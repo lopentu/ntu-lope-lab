@@ -5,7 +5,16 @@ const newsInfo = [
     time: "講者 : Prof. Laurent Prévot, CNRS, CEFC, Taipei.",
     content:
       "講題 : Comparing Fine-Tuning and Data Programming Approaches for Linguistic Segmentation Tasks. 摘要 : In this talk, I will extend a recent study on French discourse segmentation comparing fine-tuning LLMs in a supervised way vs. crafting labelling rules to develop a weakly supervised segmenter. The results show that both approaches yield similar performance in terms of f-score while weak supervision requires less manual annotation work. I will also show how to combine a state-of-the-art data curation platform (argilla), a weak supervision environment (e.g snorkel, skweak) and a standard NLP pipeline (spacy) to implement efficiently data programming approach for linguistic segmentation tasks such as chunking and discourse segmentat.",
+    link: "https://lopentu.github.io/Hands-on_Corpus_Linguistics/#registration",
+    linkName: "HOCOR 2020工作坊網頁",
   },
+
+  // {
+  //   date: "2023.9.26 | 賀",
+  //   title: "本實驗室近期研究發表",
+  //   content:
+  //     "Pacific Asia Conference on Language, Information and Computation (PACLIC37). ",
+  // },
 
   {
     date: "2023.9.16 | 賀",

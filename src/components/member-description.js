@@ -4,6 +4,7 @@ import MemberCard from "./member-card";
 import amber from "../images/members/amber.png";
 import ben from "../images/members/ben.JPG";
 import bk from "../images/members/bk.png";
+import richard from "../images/members/richard.jpg";
 import debby from "../images/members/debby.png";
 import amy from "../images/members/amy.jpeg";
 import joy from "../images/members/joy.png";
@@ -14,8 +15,8 @@ import mia from "../images/members/mia.jpg";
 import deborah from "../images/members/deborah.jpg";
 import irene from "../images/members/Irene.jpg";
 import joanne from "../images/members/joanne.png";
-import micah from "../images/members/micah.png";
-import linda from "../images/members/linda2.jpg";
+import micah from "../images/members/micah2.jpeg";
+import linda from "../images/members/linda.jpg";
 
 const MemberDescription = () => {
   return (
@@ -59,6 +60,14 @@ const MemberDescription = () => {
             name="古貿昌｜博四"
             text="計算語言學、詞彙語意學、句法學"
             mail="mailto:d08142002@ntu.edu.tw"
+          />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={richard}
+            name="連大成｜博四"
+            text="計算語言學、大語言模型、模型壓縮"
+            mail="mailto:d08944019@ntu.edu.tw"
           />
         </Col>
         <Col>

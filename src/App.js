@@ -92,7 +92,6 @@ function App() {
                 title={newsInfo[0]["title"]}
                 time={newsInfo[0]["time"]}
                 content={newsInfo[0]["content"]}
-
               />
             </Col>
             <Col>

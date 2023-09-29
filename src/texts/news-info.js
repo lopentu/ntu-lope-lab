@@ -56,7 +56,7 @@ const newsInfo = [
           <li>
             Zheng-Lin Lin, Chiao-Han Yen, Jia-Cheng Xu, Deborah Watty
             and Shu-Kai Hsieh. (2023). Solving Linguistic Olympiad Problems with
-            Tree-of-Thought Prompting.{" "}
+            Tree-of-Thought Prompting.
           </li>
           <li>
             Kai-Ching Yeh, Jou-An Chi and Da-Chen Lian, Shu-Kai Hsieh. (2023).
@@ -86,7 +86,7 @@ const newsInfo = [
           <li>
             Po-Ya Angela Wang, Pin-Er Chen, Hsin-Yu Chou, Yu-Hsiang Tseng, and
             Shu-Kai Hsieh. (2023). Lexical Retrieval Hypothesis in Multimodal
-            Context.{" "}
+            Context.
           </li>
         </div>
       </div>

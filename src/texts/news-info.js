@@ -25,73 +25,73 @@ const newsInfo = [
     ),
   },
 
-  {
-    date: "2023.9.26 | 賀",
-    title: "本實驗室近期研究發表",
-    content: (
-      <div>
-        <div>
-          <strong>
-            Pacific Asia Conference on Language, Information and
-            Computation(PACLIC37).
-          </strong>
-          <li>
-            Yu-Hsiang Tseng, Mao-Chang Ku, Wei-Ling Chen, Yu-Lin Chang, Hsieh,
-            Shu-Kai. (2023). Vec2Gloss: definition modeling leveraging
-            contextualized vectors with Wordnet gloss.{" "}
-          </li>
-          <li>
-            Pin-Er Chen, Hsin-Yu Chou, Po-Ya Angela Wang, Yu-Hsiang
-            Tseng, Hsieh, Shu-Kai. (2023). Exploring affordance and situated
-            meaning in image captions: a multimodal analysis.
-          </li>
-          <br></br>
-        </div>
+  // {
+  //   date: "2023.9.26 | 賀",
+  //   title: "本實驗室近期研究發表",
+  //   content: (
+  //     <div>
+  //       <div>
+  //         <strong>
+  //           Pacific Asia Conference on Language, Information and
+  //           Computation(PACLIC37).
+  //         </strong>
+  //         <li>
+  //           Yu-Hsiang Tseng, Mao-Chang Ku, Wei-Ling Chen, Yu-Lin Chang, Hsieh,
+  //           Shu-Kai. (2023). Vec2Gloss: definition modeling leveraging
+  //           contextualized vectors with Wordnet gloss.{" "}
+  //         </li>
+  //         <li>
+  //           Pin-Er Chen, Hsin-Yu Chou, Po-Ya Angela Wang, Yu-Hsiang
+  //           Tseng, Hsieh, Shu-Kai. (2023). Exploring affordance and situated
+  //           meaning in image captions: a multimodal analysis.
+  //         </li>
+  //         <br></br>
+  //       </div>
 
-        <div>
-          <b>
-            The 35th annual Conference on Computational Linguistics and Speech
-            Processing (ROCLING).
-          </b>
-          <li>
-            Zheng-Lin Lin, Chiao-Han Yen, Jia-Cheng Xu, Deborah Watty
-            and Shu-Kai Hsieh. (2023). Solving Linguistic Olympiad Problems with
-            Tree-of-Thought Prompting.
-          </li>
-          <li>
-            Kai-Ching Yeh, Jou-An Chi and Da-Chen Lian, Shu-Kai Hsieh. (2023).
-            Evaluating Interfaced LLM's Bias.
-          </li>
-          <br></br>
-        </div>
+  //       <div>
+  //         <b>
+  //           The 35th annual Conference on Computational Linguistics and Speech
+  //           Processing (ROCLING).
+  //         </b>
+  //         <li>
+  //           Zheng-Lin Lin, Chiao-Han Yen, Jia-Cheng Xu, Deborah Watty
+  //           and Shu-Kai Hsieh. (2023). Solving Linguistic Olympiad Problems with
+  //           Tree-of-Thought Prompting.
+  //         </li>
+  //         <li>
+  //           Kai-Ching Yeh, Jou-An Chi and Da-Chen Lian, Shu-Kai Hsieh. (2023).
+  //           Evaluating Interfaced LLM's Bias.
+  //         </li>
+  //         <br></br>
+  //       </div>
 
-        <div>
-          <b>
-            2023 International Conference on Asian Language Processing(IALP
-            2023).
-          </b>
-          <li>
-            Deborah Watty, Micah Kitsunai, Shu-Kai Hsieh. (2023). Prompt-based
-            translation of Chinese into Taiwan Braille.
-          </li>
-          <br></br>
-        </div>
+  //       <div>
+  //         <b>
+  //           2023 International Conference on Asian Language Processing(IALP
+  //           2023).
+  //         </b>
+  //         <li>
+  //           Deborah Watty, Micah Kitsunai, Shu-Kai Hsieh. (2023). Prompt-based
+  //           translation of Chinese into Taiwan Braille.
+  //         </li>
+  //         <br></br>
+  //       </div>
 
-        <div>
-          <b>
-            Discourse studies and linguistic data science: Addressing challenges
-            in interoperability, multilinguality and linguistic data processing,
-            Vienna, Austria(DiSLiDaS 2023).
-          </b>
-          <li>
-            Po-Ya Angela Wang, Pin-Er Chen, Hsin-Yu Chou, Yu-Hsiang Tseng, and
-            Shu-Kai Hsieh. (2023). Lexical Retrieval Hypothesis in Multimodal
-            Context.
-          </li>
-        </div>
-      </div>
-    ),
-  },
+  //       <div>
+  //         <b>
+  //           Discourse studies and linguistic data science: Addressing challenges
+  //           in interoperability, multilinguality and linguistic data processing,
+  //           Vienna, Austria(DiSLiDaS 2023).
+  //         </b>
+  //         <li>
+  //           Po-Ya Angela Wang, Pin-Er Chen, Hsin-Yu Chou, Yu-Hsiang Tseng, and
+  //           Shu-Kai Hsieh. (2023). Lexical Retrieval Hypothesis in Multimodal
+  //           Context.
+  //         </li>
+  //       </div>
+  //     </div>
+  //   ),
+  // },
 
   {
     date: "2023.9.16 | 賀",

@@ -30,7 +30,6 @@ const News = (props) => {
           <h5 class="card-title">{props.title}</h5>
           <p class="card-text">
             {props.time}
-            <br></br>
             {props.content}
 
             <br></br>

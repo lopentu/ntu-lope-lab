@@ -99,8 +99,6 @@ function App() {
                 date={newsInfo[1]["date"]}
                 title={newsInfo[1]["title"]}
                 content={newsInfo[1]["content"]}
-                link={newsInfo[1]["link"]}
-                linkName={newsInfo[1]["linkName"]}
               />
             </Col>
             <Col>

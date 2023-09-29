@@ -22,17 +22,18 @@ const MemberDescription = () => {
   return (
     <div style={{ width: "90vw" }}>
       <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>
-        專任研究助理＆博士後研究員
+        博士後研究員
+        {/* 專任研究助理＆博士後研究員 */}
       </h4>
       <Row lg="5" md="4" sm="3" xs="2">
-        <Col>
+        {/* <Col>
           <MemberCard
             imgSrc={joy}
             name="江琼玉｜專任研究助理"
             text="計算語言學、語料庫語言學、文本分析、資料科學與量化分析"
             mail="mailto:sonnejoy@gmail.com"
           />
-        </Col>
+        </Col> */}
         <Col>
           <MemberCard
             imgSrc={yu_shiang}

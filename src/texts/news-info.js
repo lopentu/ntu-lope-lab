@@ -2,11 +2,27 @@ const newsInfo = [
   {
     date: "2023.10.06 | 活動",
     title: "本實驗室邀請 Laurent Prévot 教授蒞臨演講",
-    time: "講者 : Prof. Laurent Prévot, CNRS, CEFC, Taipei.",
-    content:
-      "講題 : Comparing Fine-Tuning and Data Programming Approaches for Linguistic Segmentation Tasks. 摘要 : In this talk, I will extend a recent study on French discourse segmentation comparing fine-tuning LLMs in a supervised way vs. crafting labelling rules to develop a weakly supervised segmenter. The results show that both approaches yield similar performance in terms of f-score while weak supervision requires less manual annotation work. I will also show how to combine a state-of-the-art data curation platform (argilla), a weak supervision environment (e.g snorkel, skweak) and a standard NLP pipeline (spacy) to implement efficiently data programming approach for linguistic segmentation tasks such as chunking and discourse segmentat.",
-    link: "https://lopentu.github.io/Hands-on_Corpus_Linguistics/#registration",
-    linkName: "HOCOR 2020工作坊網頁",
+    content: (
+      <div>
+        <p>講者 : Prof. Laurent Prévot, CNRS, CEFC, Taipei.</p>
+        <p>
+          講題 : Comparing Fine-Tuning and Data Programming Approaches for
+          Linguistic Segmentation Tasks.
+        </p>
+        <p>
+          摘要 : In this talk, I will extend a recent study on French discourse
+          segmentation comparing fine-tuning LLMs in a supervised way vs.
+          crafting labelling rules to develop a weakly supervised segmenter. The
+          results show that both approaches yield similar performance in terms
+          of f-score while weak supervision requires less manual annotation
+          work. I will also show how to combine a state-of-the-art data curation
+          platform (argilla), a weak supervision environment (e.g snorkel,
+          skweak) and a standard NLP pipeline (spacy) to implement efficiently
+          data programming approach for linguistic segmentation tasks such as
+          chunking and discourse segmentat.
+        </p>
+      </div>
+    ),
   },
 
   // {

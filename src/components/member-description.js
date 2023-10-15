@@ -8,7 +8,6 @@ import richard from "../images/members/richard.jpg";
 import debby from "../images/members/debby.png";
 import amy from "../images/members/amy.jpeg";
 import pin_er from "../images/members/pin-er.jpg";
-import yu_shiang from "../images/members/yu-shiang.png";
 import yulin from "../images/members/yulin.png";
 import mia from "../images/members/mia.jpg";
 import deborah from "../images/members/deborah.jpg";
@@ -22,7 +21,7 @@ const MemberDescription = () => {
     <div style={{ width: "90vw" }}>
       {/* <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>
         博士後研究員(專任研究助理＆博士後研究員)
-        
+
       </h4> */}
       {/* <Row lg="5" md="4" sm="3" xs="2">
         <Col>

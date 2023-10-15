@@ -7,7 +7,6 @@ import bk from "../images/members/bk.png";
 import richard from "../images/members/richard.jpg";
 import debby from "../images/members/debby.png";
 import amy from "../images/members/amy.jpeg";
-import joy from "../images/members/joy.png";
 import pin_er from "../images/members/pin-er.jpg";
 import yu_shiang from "../images/members/yu-shiang.png";
 import yulin from "../images/members/yulin.png";
@@ -21,18 +20,11 @@ import linda from "../images/members/linda.jpg";
 const MemberDescription = () => {
   return (
     <div style={{ width: "90vw" }}>
-      <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>
-        專任研究助理＆博士後研究員
-      </h4>
-      <Row lg="5" md="4" sm="3" xs="2">
-        <Col>
-          <MemberCard
-            imgSrc={joy}
-            name="江琼玉｜專任研究助理"
-            text="計算語言學、語料庫語言學、文本分析、資料科學與量化分析"
-            mail="mailto:sonnejoy@gmail.com"
-          />
-        </Col>
+      {/* <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>
+        博士後研究員(專任研究助理＆博士後研究員)
+        
+      </h4> */}
+      {/* <Row lg="5" md="4" sm="3" xs="2">
         <Col>
           <MemberCard
             imgSrc={yu_shiang}
@@ -41,7 +33,7 @@ const MemberDescription = () => {
             mail="mailto:seantyh@gmail.com"
           />
         </Col>
-      </Row>
+      </Row> */}
 
       <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>博士生</h4>
       <Row lg="5" md="4" sm="3" xs="2">
@@ -74,7 +66,7 @@ const MemberDescription = () => {
           <MemberCard
             imgSrc={linda}
             name="陳韋伶｜博三"
-            text="計算語言學、語意學、語言習得、遛狗"
+            text="計算語言學、語意學、語言習得"
             mail="mailto:d10142007@ntu.edu.tw"
           />
         </Col>
@@ -132,7 +124,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={mia}
-            name="葉凱晴｜碩一"
+            name="葉凱晴｜碩二"
             text="計算語言學、句法學"
             mail="mailto:ykcmia@gmail.com"
           />
@@ -149,7 +141,7 @@ const MemberDescription = () => {
           <MemberCard
             imgSrc={micah}
             name="橘内每歌 Micah｜碩二"
-            text="計算語言學、語料庫語言學、語言獲得"
+            text="計算語言學、語料庫語言學、大語言模型、"
             mail="mailto:r11142010@ntu.edu.tw"
             link="https://github.com/muoegu"
           />
@@ -166,7 +158,29 @@ const MemberDescription = () => {
 
       <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>研究助理</h4>
       <Row lg="5" md="4" sm="3" xs="2" style={{ marginBottom: "5vh" }}>
-        <Col></Col>
+        {/* <Col>
+          <MemberCard imgSrc={micah} name="Cindy 欣誼｜" text="??" mail="" />
+        </Col>
+        <Col>
+          <MemberCard imgSrc={micah} name="蔡雨璇｜" text="??" mail="w" />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={micah}
+            name="楊力行｜"
+            text="軟體工程、領域驅動設計"
+            mail="retr0327@gmail.com"
+            link="https://retr0327.github.io/"
+          />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={micah}
+            name="陳博煒｜"
+            text="軟體工程、計算機科學"
+            mail="bwchen.dev@gmail.com"
+          />
+        </Col> */}
       </Row>
     </div>
   );

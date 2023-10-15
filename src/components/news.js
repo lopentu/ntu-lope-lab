@@ -32,7 +32,6 @@ const News = (props) => {
             {props.time}
             <br></br>
             {props.content}
-
             <br></br>
             <a href={props.link}>{props.linkName}</a>
           </p>

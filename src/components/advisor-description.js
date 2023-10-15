@@ -10,7 +10,7 @@ const AdvisorDescription = (props) => {
           object
           src={shukai}
           alt="advisor"
-          style={{ height: "235px", marginRight: "5vw", borderRadius: "50px" }}
+          style={{ height: "250px", marginRight: "5vw", borderRadius: "25px" }}
         />
       </Media>
 

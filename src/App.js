@@ -250,7 +250,7 @@ function App() {
                 title="Chinese variation"
                 imgSrc={chi_var}
                 href="https://lopen.linguistics.ntu.edu.tw/chivar/"
-                text="台灣國語和大陸國語的平行語料庫。"
+                text="台灣國語和中國普通話的平行語料庫。"
               />
             </Col>
             <Col>

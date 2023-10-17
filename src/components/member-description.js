@@ -150,7 +150,8 @@ const MemberDescription = () => {
             imgSrc={deborah}
             name="Deborah Watty｜碩二"
             text="計算語意學"
-            mail="mailto:Deborah.watty@gmail.com"
+            mail="mailto:r11142012@ntu.edu.tw"
+            link="https://github.com/deborahwatty"
           />
         </Col>
       </Row>

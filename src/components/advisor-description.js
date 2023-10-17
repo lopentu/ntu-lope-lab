@@ -37,7 +37,7 @@ const AdvisorDescription = (props) => {
               borderRadius: "50px",
             }}
           >
-            <a href="mailto:shukai@gmail.com">
+            <a href="mailto:shukaihsieh@ntu.edu.tw">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -62,7 +62,7 @@ const AdvisorDescription = (props) => {
               marginLeft: "30px",
             }}
           >
-            <a href="https://ntu-lope-lab.netlify.app/#members">
+            <a href="https://loperntu.github.io">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"

@@ -118,6 +118,7 @@ const MemberDescription = () => {
             name="紀柔安｜碩二"
             text="計算語意學、認知語意學、資料科學"
             mail="jajoanne.chi88@gmail.com"
+            link="https://github.com/lowannann"
           />
         </Col>
         <Col>

@@ -102,6 +102,7 @@ const MemberDescription = () => {
             imgSrc={yulin}
             name="張鈺琳｜碩三"
             text="計算語言學"
+            mail="mailto:r10142006@ntu.edu.tw"
           />
         </Col>
         <Col>

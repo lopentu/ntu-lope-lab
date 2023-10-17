@@ -139,7 +139,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={micah}
-            name="橘内每歌 Micah｜碩二"
+            name="橘内每歌｜碩二"
             text="計算語言學、語料庫語言學、大語言模型、"
             mail="mailto:r11142010@ntu.edu.tw"
             link="https://github.com/muoegu"

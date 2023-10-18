@@ -224,7 +224,7 @@ function App() {
                 title="Chinese Wordnet (CWN)"
                 imgSrc={cwn}
                 href="https://lopentu.github.io/CwnWeb/#home"
-                text="以中文為核心的巨量開放詞庫，放棄原子論式的詞彙觀點，讓我們把它開發成為詞彙相關研究的基礎建設。"
+                text="全球第一個中文詞彙語意網路。"
               />
             </Col>
             <Col>
@@ -240,7 +240,7 @@ function App() {
                 title="Taiwan Social Media Corpus"
                 imgSrc={ptt_corp3}
                 href="http://140.112.147.132/"
-                text="SOME為收錄了PTT和Dcard兩大論壇的語料庫。作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
+                text="SoMe 為收錄了 PTT 和 Dcard 兩大論壇的語料庫。作為一個台灣特有的 BBS 系統，PTT 記錄了珍貴而有趣的社會語言文化現象。提供了語言接觸與演化和「精簡語言學」重要的經驗訊息。"
               />
             </Col>
           </Row>
@@ -352,7 +352,7 @@ function App() {
         <div id="contact-us" style={{ marginTop: "5vh", marginBottom: "2vh" }}>
           <h3>聯絡我們</h3>
         </div>
-        <p>謝舒凱老師 email : shukai@gmail.com</p>
+        <p>謝舒凱老師 email : shukaihsieh@ntu.edu.tw</p>
         <p>臺大語言所 | 知識本體、語言處理與人文計算實驗室</p>
         <p>
           LOPE lab @ National Taiwan University, Graduate Institute of

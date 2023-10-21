@@ -58,7 +58,7 @@ const MemberDescription = () => {
           <MemberCard
             imgSrc={richard}
             name="連大成｜博四"
-            text="計算語言學、大語言模型、模型壓縮"
+            text="計算語言學、大型語言模型、模型壓縮"
             mail="mailto:d08944019@ntu.edu.tw"
           />
         </Col>
@@ -142,8 +142,8 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={micah}
-            name="橘内每歌 Micah｜碩二"
-            text="計算語言學、語料庫語言學、大語言模型、"
+            name="橘内每歌 ｜碩二"
+            text="計算語言學、語料庫語言學、大型語言模型、"
             mail="mailto:r11142010@ntu.edu.tw"
             link="https://github.com/muoegu"
           />

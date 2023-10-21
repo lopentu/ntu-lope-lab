@@ -58,7 +58,7 @@ const MemberDescription = () => {
           <MemberCard
             imgSrc={richard}
             name="連大成｜博四"
-            text="計算語言學、大語言模型、模型壓縮"
+            text="計算語言學、大型語言模型、模型壓縮"
             mail="mailto:d08944019@ntu.edu.tw"
           />
         </Col>
@@ -120,13 +120,14 @@ const MemberDescription = () => {
             name="紀柔安｜碩二"
             text="計算語意學、認知語意學、資料科學"
             mail="jajoanne.chi88@gmail.com"
+            link="https://github.com/lowannann"
           />
         </Col>
         <Col>
           <MemberCard
             imgSrc={mia}
             name="葉凱晴｜碩二"
-            text="計算語言學、句法學"
+            text="計算語言學、句法學、語料庫語言學、資料科學"
             mail="mailto:ykcmia@gmail.com"
           />
         </Col>
@@ -141,8 +142,8 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={micah}
-            name="橘内每歌 Micah｜碩二"
-            text="計算語言學、語料庫語言學、大語言模型、"
+            name="橘内每歌 ｜碩二"
+            text="計算語言學、語料庫語言學、大型語言模型、"
             mail="mailto:r11142010@ntu.edu.tw"
             link="https://github.com/muoegu"
           />

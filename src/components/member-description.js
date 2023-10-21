@@ -15,6 +15,7 @@ import irene from "../images/members/Irene.jpg";
 import joanne from "../images/members/joanne.png";
 import micah from "../images/members/micah2.jpeg";
 import linda from "../images/members/linda.jpg";
+import andy from "../images/members/andy.jpg";
 
 const MemberDescription = () => {
   return (
@@ -153,6 +154,14 @@ const MemberDescription = () => {
             text="計算語意學"
             mail="mailto:r11142012@ntu.edu.tw"
             link="https://github.com/deborahwatty"
+          />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={andy}
+            name="林欣安｜碩一"
+            text="計算語言學"
+            mail="mailto:r12142007@ntu.edu.tw"
           />
         </Col>
       </Row>

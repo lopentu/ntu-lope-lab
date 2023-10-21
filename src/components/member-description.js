@@ -39,9 +39,9 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={amber}
-            name="王伯雅｜博四"
+            name="王伯雅｜博五"
             text="計算語言學、語料庫語言學、詞彙語意學、心理語言學、社會語言學、歷史語言學"
-            mail="mailto:diff@cmgsh.tp.edu.tw"
+            mail="mailto:diff@cmgsh.tp.edu.tw;differe94nt@gmail.com"
             link="https://www.instagram.com/differe94nt/"
           />
         </Col>

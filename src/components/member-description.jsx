@@ -2,7 +2,7 @@ import React from "react";
 import { Row, Col } from "reactstrap";
 import MemberCard from "./member-card";
 import amber from "../images/members/amber.png";
-import ben from "../images/members/ben.JPG";
+import ben from "../images/members/ben.jpg";
 import bk from "../images/members/bk.png";
 import richard from "../images/members/richard.jpg";
 import debby from "../images/members/debby.png";

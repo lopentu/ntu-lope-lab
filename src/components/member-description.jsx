@@ -16,6 +16,8 @@ import joanne from "../images/members/joanne.png";
 import micah from "../images/members/micah2.jpeg";
 import linda from "../images/members/linda.jpg";
 import andy from "../images/members/andy.jpg";
+import rick from "../images/members/rick.png";
+
 
 const MemberDescription = () => {
   return (
@@ -163,6 +165,15 @@ const MemberDescription = () => {
             name="林欣安｜碩一"
             text="計算語言學"
             mail="mailto:r12142007@ntu.edu.tw"
+          />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={rick}
+            name="潘同樂｜碩一"
+            text="計算語言學、語料庫語言學、數位人文"
+            mail="mailto:happypan2466@gmail.com"
+            link="https://github.com/PanTungLe"
           />
         </Col>
       </Row>

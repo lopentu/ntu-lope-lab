@@ -13,10 +13,12 @@ const MemberCard = (props) => {
     <div>
       <Card
         style={{
-          height: "64vh",
+          // height: "64vh",
+          height: "40vh",
           width: "auto",
           overflowY: "auto",
           marginBottom: "10px",
+          borderRadius: "30px",
         }}
         className="member-card"
       >
@@ -24,7 +26,8 @@ const MemberCard = (props) => {
           top
           src={props.imgSrc}
           alt="LOPE-resource"
-          style={{ height: "auto", width: "100%" }}
+          style={{ height: "50%", width: "100%" }}
+          // style={{ height: "auto", width: "100%" }}
         />
         <CardBody>
           <CardTitle tag="h5">{props.name}</CardTitle>

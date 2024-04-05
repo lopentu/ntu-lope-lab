@@ -15,6 +15,17 @@ const Publications = (props) => {
       <Nav tabs>
         <NavItem className="pub_tabs">
           <NavLink
+            className={classnames({ active: activeTab === "17" })}
+            onClick={() => {
+              toggle("17");
+            }}
+          >
+            2024
+          </NavLink>
+        </NavItem>
+
+        <NavItem className="pub_tabs">
+          <NavLink
             className={classnames({ active: activeTab === "1" })}
             onClick={() => {
               toggle("1");
@@ -183,6 +194,14 @@ const Publications = (props) => {
       </Nav>
 
       <TabContent activeTab={activeTab}>
+        <TabPane tabId="17">
+          {" "}
+          <div class="content" style={{ display: "block" }}>
+            <ul class="icon-list">
+            </ul>
+          </div>
+        </TabPane>
+
         <TabPane tabId="1">
           {" "}
           <div class="content" style={{ display: "block" }}>

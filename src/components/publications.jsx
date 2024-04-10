@@ -198,6 +198,9 @@ const Publications = (props) => {
           {" "}
           <div class="content" style={{ display: "block" }}>
             <ul class="icon-list">
+            <li class="publi">
+            <strong>Hsieh, Shu-Kai</strong>, Yu-Hsiang Tseng, Da-Chen Lian, and Chi-Wei Wang. "Self-supervised learning for Formosan speech representation and linguistic phylogeny." Frontiers in Language Sciences 3 (2024): 1338684.
+              </li>
             </ul>
           </div>
         </TabPane>
@@ -210,6 +213,9 @@ const Publications = (props) => {
                 Po-Ya Angela Wang and <strong>Shu-Kai Hsieh</strong>. (2023).
                 Incorporating structural topic modeling into short text
                 analysis. Concentric, 49(1), 96-138.
+              </li>
+              <li class="publi">
+                Watty, Deborah, Micah Kitsunai, and <strong>Shu-Kai Hsieh</strong>. "Prompt-Based Translation of Chinese into Taiwanese Mandarin Braille." 2023 International Conference on Asian Language Processing (IALP). IEEE, 2023.
               </li>
             </ul>
           </div>

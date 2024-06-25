@@ -1,4 +1,17 @@
+import newsPic from '../images/6.25news.png'
+
 const newsInfo = [
+  {
+    date: "2023.6.26 | 活動",
+    title: "謝舒凱教授在生成式人工智慧技術 與應用論壇演講",
+    content: (
+      <div>
+        <p>時間:2023年6月26日（四）14:00~17:10 </p>
+        <p>歡迎師生蒞臨參加。</p>
+        <img src={newsPic} style={{ width: '340px', height: 'auto' }} />
+      </div>
+    ),
+  },
   {
     date: "2023.12.26 | 活動",
     title: "本實驗室將邀請曾昱翔博士後研究員蒞臨演講",

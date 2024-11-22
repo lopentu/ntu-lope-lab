@@ -119,7 +119,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={joanne}
-            name="紀柔安｜碩二"
+            name="紀柔安｜碩三"
             text="計算語意學、認知語意學、資料科學"
             mail="jajoanne.chi88@gmail.com"
             link="https://github.com/lowannann"
@@ -128,7 +128,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={mia}
-            name="葉凱晴｜碩二"
+            name="葉凱晴｜碩三"
             text="計算語言學、句法學、語料庫語言學、資料科學"
             mail="mailto:ykcmia@gmail.com"
           />
@@ -136,7 +136,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={irene}
-            name="顏巧函｜碩二"
+            name="顏巧函｜碩三"
             text="計算語意學、認知語意學、社會語言學、隱喻"
             mail="mailto:r11142008@ntu.edu.tw"
           />
@@ -144,7 +144,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={micah}
-            name="橘内每歌 ｜碩二"
+            name="橘内每歌 ｜碩三"
             text="計算語言學、語料庫語言學、大型語言模型、"
             mail="mailto:r11142010@ntu.edu.tw"
             link="https://github.com/muoegu"
@@ -153,7 +153,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={deborah}
-            name="Deborah Watty｜碩二"
+            name="Deborah Watty｜碩三"
             text="計算語意學"
             mail="mailto:r11142012@ntu.edu.tw"
             link="https://github.com/deborahwatty"
@@ -162,7 +162,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={andy}
-            name="林欣安｜碩一"
+            name="林欣安｜碩二"
             text="計算語言學"
             mail="mailto:r12142007@ntu.edu.tw"
           />
@@ -170,7 +170,7 @@ const MemberDescription = () => {
         <Col>
           <MemberCard
             imgSrc={rick}
-            name="潘同樂｜碩一"
+            name="潘同樂｜碩二"
             text="計算語言學、語料庫語言學、數位人文"
             mail="mailto:happypan2466@gmail.com"
             link="https://github.com/PanTungLe"

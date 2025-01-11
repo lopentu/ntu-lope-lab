@@ -195,18 +195,33 @@ const Publications = (props) => {
 
       <TabContent activeTab={activeTab}>
         <TabPane tabId="17">
-          {" "}
           <div class="content" style={{ display: "block" }}>
             <ul class="icon-list">
-            <li class="publi">
-            <strong>Hsieh, Shu-Kai</strong>, Yu-Hsiang Tseng, Da-Chen Lian, and Chi-Wei Wang. "Self-supervised learning for Formosan speech representation and linguistic phylogeny." Frontiers in Language Sciences 3 (2024): 1338684.
+              <li class="publi">
+                <strong>Hsieh, Shu-Kai</strong>, Yu-Hsiang Tseng, Da-Chen Lian,
+                and Chi-Wei Wang. "Self-supervised learning for Formosan speech
+                representation and linguistic phylogeny." Frontiers in Language
+                Sciences 3 (2024): 1338684.
+              </li>
+              <li class="publi">
+                Yu-Hsiang Tseng, Pin-Er Chen, Da-Chen Lian, and
+                <strong> Hsieh, Shu-Kai</strong>. 2024. The Semantic Relations
+                in LLMs: An Information-theoretic Compression Approach. In
+                Proceedings of the Workshop: Bridging Neurons and Symbols for
+                Natural Language Processing and Knowledge Graphs Reasoning
+                (NeusymBridge) @ LREC-COLING-2024, pages 8–21, Torino, Italia.
+                ELRA and ICCL.
+              </li>
+              <li class="publi">
+                <strong>Hsieh, S-K.</strong>, Tseng, Y., Chou, H., Yang, C., &
+                Chang, Y. (2024). Resolving Regular Polysemy in Named Entities.
+                ArXiv, abs/2401.09758.
               </li>
             </ul>
           </div>
         </TabPane>
 
         <TabPane tabId="1">
-          {" "}
           <div class="content" style={{ display: "block" }}>
             <ul class="icon-list">
               <li class="publi">
@@ -215,7 +230,50 @@ const Publications = (props) => {
                 analysis. Concentric, 49(1), 96-138.
               </li>
               <li class="publi">
-                Watty, Deborah, Micah Kitsunai, and <strong>Shu-Kai Hsieh</strong>. "Prompt-Based Translation of Chinese into Taiwanese Mandarin Braille." 2023 International Conference on Asian Language Processing (IALP). IEEE, 2023.
+                Watty, Deborah, Micah Kitsunai, and
+                <strong> Shu-Kai Hsieh</strong>. "Prompt-Based Translation of
+                Chinese into Taiwanese Mandarin Braille." 2023 International
+                Conference on Asian Language Processing (IALP). IEEE, 2023.
+              </li>
+              <li class="publi">
+                Zheng-Lin Lin, Chiao-Han Yen, Jia-Cheng Xu, Deborah Watty, and
+                <strong> Shu-Kai Hsieh</strong>. 2023. Solving Linguistic
+                Olympiad Problems with Tree-of-Thought Prompting. In Proceedings
+                of the 35th Conference on Computational Linguistics and Speech
+                Processing (ROCLING 2023), pages 262–269, Taipei City, Taiwan.
+                The Association for Computational Linguistics and Chinese
+                Language Processing (ACLCLP).
+              </li>
+              <li class="publi">
+                Kai-Ching Yeh, Jou-An Chi, Da-Chen Lian, and
+                <strong> Shu-Kai Hsieh</strong>. 2023. Evaluating Interfaced LLM
+                Bias. In Proceedings of the 35th Conference on Computational
+                Linguistics and Speech Processing (ROCLING 2023), pages 292–299,
+                Taipei City, Taiwan. The Association for Computational
+                Linguistics and Chinese Language Processing (ACLCLP).
+              </li>
+              <li class="publi">
+                Pin-Er Chen, Po-Ya Angela Wang, Hsin-Yu Chou, Yu-Hsiang Tseng,
+                and <strong> Shu-Kai Hsieh</strong>. 2023. Exploring Affordance
+                and Situated Meaning in Image Captions: A Multimodal Analysis.
+                In Proceedings of the 37th Pacific Asia Conference on Language,
+                Information and Computation, pages 293–302, Hong Kong, China.
+                Association for Computational Linguistics.
+              </li>
+              <li class="publi">
+                Yu-Hsiang Tseng, Mao-Chang Ku, Wei-Ling Chen, Yu-Lin Chang, and
+                <strong> Shu-Kai Hsieh</strong>. 2023. Vec2Gloss: definition
+                modeling leveraging contextualized vectors with Wordnet gloss.
+                In Proceedings of the 37th Pacific Asia Conference on Language,
+                Information and Computation, pages 679–690, Hong Kong, China.
+                Association for Computational Linguistics.
+              </li>
+              <li class="publi">
+                Po-Ya Angela Wang, Pin-Er Chen, Hsin-Yu Chou, Yu-Hsiang Tseng,
+                and <strong> Shu-Kai Hsieh</strong>. 2023. Lexical Retrieval
+                Hypothesis in Multimodal Context. In Proceedings of the 4th
+                Conference on Language, Data and Knowledge, pages 455–465,
+                Vienna, Austria. NOVA CLUNL, Portugal.
               </li>
             </ul>
           </div>
@@ -247,6 +305,15 @@ const Publications = (props) => {
                 Jacobian: modeling Chinese character meanings with deep learning
                 model. In: The 29th International Conference on Computational
                 Linguistics (COLING). South Korea.
+              </li>
+              <li class="publi">
+                Pin-Er Chen, Yu-Hsiang Tseng, Chi-Wei Wang, Fang-Chi Yeh, and
+                <strong>Shu-Kai Hsieh</strong>. 2022. Analyzing Discourse
+                Functions with Acoustic Features and Phone mbeddings:
+                Non-lexical Items in Taiwan Mandarin. In International Journal
+                of Computational Linguistics & Chinese Language Processing,
+                Volume 27, Number 2, December 2022, Taipei, Taiwan. Association
+                for Computational Linguistics and Chinese Language Processing.
               </li>
             </ul>
           </div>

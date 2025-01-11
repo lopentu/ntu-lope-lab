@@ -17,6 +17,8 @@ import micah from "../images/members/micah2.jpeg";
 import linda from "../images/members/linda.jpg";
 import andy from "../images/members/andy.jpg";
 import rick from "../images/members/rick.png";
+import yuxuan from "../images/members/yuxuan.png";
+import zhihan from "../images/members/zhihan.png";
 
 
 const MemberDescription = () => {
@@ -84,7 +86,7 @@ const MemberDescription = () => {
 
       <h4 style={{ marginBottom: "5vh", marginTop: "5vh" }}>碩士生</h4>
       <Row lg="5" md="4" sm="3" xs="2" style={{ marginBottom: "5vh" }}>
-        <Col>
+        {/* <Col>
           <MemberCard
             imgSrc={ben}
             name="許家誠｜碩五"
@@ -115,7 +117,7 @@ const MemberDescription = () => {
             text="計算語言學、語意學、認知語言學"
             mail="mailto:r10142008@ntu.edu.tw"
           />
-        </Col>
+        </Col> */}
         <Col>
           <MemberCard
             imgSrc={joanne}
@@ -174,6 +176,22 @@ const MemberDescription = () => {
             text="計算語言學、語料庫語言學、數位人文"
             mail="mailto:happypan2466@gmail.com"
             link="https://github.com/PanTungLe"
+          />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={yuxuan}
+            name="林于瑄｜碩一"
+            text="計算語言學，南島語"
+            mail="mailto:"
+          />
+        </Col>
+        <Col>
+          <MemberCard
+            imgSrc={zhihan}
+            name="林智瀚｜碩一"
+            text="計算語言學、語音學"
+            mail="mailto:"
           />
         </Col>
       </Row>

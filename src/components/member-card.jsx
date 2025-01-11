@@ -14,7 +14,7 @@ const MemberCard = (props) => {
       <Card
         style={{
           // height: "64vh",
-          height: "40vh",
+          height: "45vh",
           width: "auto",
           overflowY: "auto",
           marginBottom: "10px",
